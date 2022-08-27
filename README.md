@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jackman-01
+- 👋 Hi, I’m @Maaz Khan
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
 - 📫 How to reach me : Twitter - @maazkha51029452
